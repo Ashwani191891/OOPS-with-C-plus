@@ -48,6 +48,3 @@ int main()
 		cout<<m<<" raised to the power " << n << " is equal to : "<<output;
 	}
 }
-
-
-
